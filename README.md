@@ -1,2 +1,2 @@
 # Snakes
-Make the classic Snakes game for browser using HTML, CSS, JS
+Make the classic Snake game using HTML,CSS,JS.
